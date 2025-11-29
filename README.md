@@ -3,7 +3,7 @@
 📥 Download Large File (250MB)
 Due to GitHub’s file size limitations, the main project package has been uploaded to Google Drive.
 
-👉 Download File: [ google drive link]([https://drive.google.com/file/d/1SLpJ11CCKX5ICAGgLUTMz5248tz2Cpxk/view?usp=drive_link](https://drive.google.com/drive/folders/1qb_ZYeRbsjua8zt3Er4_Ahk5uUaeD1zk?usp=drive_link))
+👉 Download File: [ google drive link](https://drive.google.com/drive/folders/1qb_ZYeRbsjua8zt3Er4_Ahk5uUaeD1zk?usp=drive_link)
 
 📄 Project Overview
 
